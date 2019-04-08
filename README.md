@@ -22,3 +22,6 @@ You will also see any lint errors in the console.
 
 Installs all dependencies.
 
+### `View on Git Pages`
+
+https://jrperezjr.github.io/react-step-form/
