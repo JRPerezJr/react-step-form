@@ -12,9 +12,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -25,8 +23,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://jrperezjr.github.io/react-step-form/",
-  "devDependencies": {
-    "gh-pages": "^2.0.1"
-  }
+  "homepage" : "http://myname.github.io/react-step-form"
 }
