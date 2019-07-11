@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "lodash": "^4.17.13",
+    "lodash.merge": "^4.6.2",
     "lodash.template": "^4.5.0",
     "material-ui": "^0.20.2",
     "react": "^16.8.6",
